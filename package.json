@@ -1,0 +1,27 @@
+{
+  "name": "libtest",
+  "version": "1.0.0",
+  "description": "tutorial create a javascript library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igiagante/libtest.git"
+  },
+  "keywords": [
+    "tutorial",
+    "test",
+    "lib"
+  ],
+  "author": "Ignacio Giagante <igiagante@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igiagante/libtest/issues"
+  },
+  "homepage": "https://github.com/igiagante/libtest#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
